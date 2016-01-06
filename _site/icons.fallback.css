@@ -1,5 +1,40 @@
 
-.icon-photo33 {
-	background-image: url('png/photo33.png');
+.icon-facebook {
+	background-image: url('png/facebook.png');
+	background-repeat: no-repeat;
+}
+
+.icon-flickr {
+	background-image: url('png/flickr.png');
+	background-repeat: no-repeat;
+}
+
+.icon-google-plus {
+	background-image: url('png/google-plus.png');
+	background-repeat: no-repeat;
+}
+
+.icon-linkedin {
+	background-image: url('png/linkedin.png');
+	background-repeat: no-repeat;
+}
+
+.icon-pinterest-p {
+	background-image: url('png/pinterest-p.png');
+	background-repeat: no-repeat;
+}
+
+.icon-skype {
+	background-image: url('png/skype.png');
+	background-repeat: no-repeat;
+}
+
+.icon-twitter {
+	background-image: url('png/twitter.png');
+	background-repeat: no-repeat;
+}
+
+.icon-youtube-play {
+	background-image: url('png/youtube-play.png');
 	background-repeat: no-repeat;
 }
